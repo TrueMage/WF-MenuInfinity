@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF-MenuInfinity", "WF-MenuInfinity.csproj", "{474EEB0D-638D-46F4-8A56-85FC47569D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474EEB0D-638D-46F4-8A56-85FC47569D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474EEB0D-638D-46F4-8A56-85FC47569D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474EEB0D-638D-46F4-8A56-85FC47569D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474EEB0D-638D-46F4-8A56-85FC47569D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B8C431-BD08-4222-84F7-690545154326}
+	EndGlobalSection
+EndGlobal
